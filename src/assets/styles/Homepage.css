@@ -1,0 +1,86 @@
+/* TODO: IT19180526 - Chandrasiri S A N L D */
+
+#introduction .introduction-container {
+    height:100vh;
+    color: white;
+    text-align: center;
+    padding: 0 15px;
+    top: 100px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    display: -webkit-box;
+    display: -ms-flexbox;
+
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+
+    align-items: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+
+    flex-direction: column;
+}
+
+#keynotes .keynote-container {
+    padding: 50px;
+    background-color: white;
+    text-align: center;
+    /*overflow-x: hidden;*/
+}
+
+#about .about-container {
+    padding: 50px;
+    background-color: white;
+    text-align: center;
+    /*overflow-x: hidden;*/
+}
+
+#news .news-container {
+    padding: 50px;
+    background-color: white;
+    text-align: center;
+    /*overflow-x: hidden;*/
+}
+
+#gallery .gallery-container {
+    padding: 50px;
+    background-color: white;
+    text-align: center;
+    /*overflow-x: hidden;*/
+}
+
+#ctracks .ctracks-container {
+    padding: 50px;
+    background-color: white;
+    text-align: center;
+    /*overflow-x: hidden;*/
+}
+
+#organize .organize-container {
+    padding: 50px;
+    background-color: white;
+    text-align: center;
+    /*overflow-x: hidden;*/
+}
+
+#sponsor .sponsor-container {
+    padding: 50px;
+    background-color: white;
+    text-align: center;
+    /*overflow-x: hidden;*/
+}
+
+#idates .idates-container {
+    padding: 50px;
+    background-color: white;
+    text-align: center;
+    /*overflow-x: hidden;*/
+}
